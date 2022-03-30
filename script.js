@@ -4,7 +4,7 @@ let secondBill = 148;
 let thirdBill = 75;
 let fourthBill = 268;
 let totalBudget = 750;
-
+//burası feature tarafından yazıldı
  
 function calculateTips (bill) {
     let tip = bill * 0.1;
