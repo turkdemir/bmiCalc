@@ -1,6 +1,6 @@
 
 let firstBill = 124;
-let secondBill = 48;
+let secondBill = 148;
 let thirdBill = 75;
 let fourthBill = 268;
 let totalBudget = 750;
