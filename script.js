@@ -9,8 +9,8 @@ let totalBudget = 750;
 function calculateTips (bill) {
     let tip = bill * 0.1;
     
-    
-    
+    // bursı develop
+    // değişiklik
     
     
     return tip;
